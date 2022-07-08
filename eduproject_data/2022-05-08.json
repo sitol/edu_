@@ -1,0 +1,1756 @@
+{
+    "data": [
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 11,
+                        "end": 17,
+                        "tag": "mates"
+                    },
+                    {
+                        "start": 72,
+                        "end": 91,
+                        "tag": "educaci\u00f3nemocional"
+                    },
+                    {
+                        "start": 92,
+                        "end": 108,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 109,
+                        "end": 119,
+                        "tag": "alzheimer"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "tag": "ElDiariodeNoa"
+                    },
+                    {
+                        "start": 135,
+                        "end": 147,
+                        "tag": "matematicas"
+                    },
+                    {
+                        "start": 148,
+                        "end": 165,
+                        "tag": "logicomatematica"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 166,
+                        "end": 189,
+                        "url": "https://t.co/4oIYvYqeYX",
+                        "expanded_url": "https://twitter.com/asunflowers/status/1523377243292008448/video/1",
+                        "display_url": "pic.twitter.com/4oIYvYqeYX",
+                        "media_key": "7_1523377113763565568"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "Cuando las #mates est\u00e1n presentes.\nD\u00edas, a\u00f1os... Y adem\u00e1s trabajamos la #educaci\u00f3nemocional #claustrovirtual #alzheimer #ElDiariodeNoa #matematicas #logicomatematica https://t.co/4oIYvYqeYX",
+            "conversation_id": "1523377243292008448",
+            "created_at": "2022-05-08T19:00:12.000Z",
+            "author_id": "853750569151889408",
+            "attachments": {
+                "media_keys": [
+                    "7_1523377113763565568"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523377243292008448",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "9e6a1e068c830c22"
+            }
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 32,
+                        "end": 43,
+                        "tag": "elcangrejo"
+                    },
+                    {
+                        "start": 47,
+                        "end": 58,
+                        "tag": "flippedhmc"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 137,
+                        "end": 160,
+                        "url": "https://t.co/HeHx4dExz9",
+                        "expanded_url": "https://youtu.be/OhfnVo1L3X0",
+                        "display_url": "youtu.be/OhfnVo1L3X0",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523367007999373312/WH3znDHq?format=jpg&name=orig",
+                                "width": 1280,
+                                "height": 720
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523367007999373312/WH3znDHq?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Imperialismo G2",
+                        "unwound_url": "https://www.youtube.com/watch?v=OhfnVo1L3X0&feature=youtu.be"
+                    },
+                    {
+                        "start": 245,
+                        "end": 268,
+                        "url": "https://t.co/8KIlrRAax2",
+                        "expanded_url": "https://twitter.com/manueljesusF/status/1523367005453418496/photo/1",
+                        "display_url": "pic.twitter.com/8KIlrRAax2",
+                        "media_key": "3_1523366999757361152"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 162,
+                        "end": 178,
+                        "username": "edccss22_Malaga",
+                        "id": "1486761183009030144"
+                    },
+                    {
+                        "start": 179,
+                        "end": 188,
+                        "username": "EABE2020",
+                        "id": "1114562215682695170"
+                    },
+                    {
+                        "start": 189,
+                        "end": 198,
+                        "username": "EABE2023",
+                        "id": "1518026344629776384"
+                    },
+                    {
+                        "start": 199,
+                        "end": 211,
+                        "username": "CeDeC_intef",
+                        "id": "189062495"
+                    },
+                    {
+                        "start": 212,
+                        "end": 219,
+                        "username": "AVPGHA",
+                        "id": "1123874401609555973"
+                    },
+                    {
+                        "start": 220,
+                        "end": 229,
+                        "username": "amphg_es",
+                        "id": "882195634090110976"
+                    },
+                    {
+                        "start": 230,
+                        "end": 244,
+                        "username": "educahistoria",
+                        "id": "137130762"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "#claustrovirtual\nEn el proyecto #elcangrejo de #flippedhmc empezamos a grabar v\u00eddeos sobre el imperialismo\n\nAqu\u00ed ten\u00e9is una muestra \u27a1\ufe0f\u27a1\ufe0f https://t.co/HeHx4dExz9\n\n@edccss22_Malaga @EABE2020 @EABE2023 @CeDeC_intef @AVPGHA @amphg_es @educahistoria https://t.co/8KIlrRAax2",
+            "conversation_id": "1523367005453418496",
+            "created_at": "2022-05-08T18:19:31.000Z",
+            "author_id": "162006900",
+            "attachments": {
+                "media_keys": [
+                    "3_1523366999757361152"
+                ]
+            },
+            "source": "Twitter for iPad",
+            "id": "1523367005453418496",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 55,
+                        "end": 71,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 72,
+                        "end": 77,
+                        "tag": "ESPA"
+                    },
+                    {
+                        "start": 78,
+                        "end": 99,
+                        "tag": "OrientacionEducativa"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 42,
+                        "probability": 0.8033,
+                        "type": "Place",
+                        "normalized_text": "CEPAs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 45,
+                        "end": 54,
+                        "username": "fadultos",
+                        "id": "714139559475474432"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "\u00bf En qu\u00e9 CC.AA hay orientadores/as en CEPAs? @fadultos #claustrovirtual #ESPA #OrientacionEducativa",
+            "conversation_id": "1523364911937638400",
+            "created_at": "2022-05-08T18:11:12.000Z",
+            "author_id": "59874027",
+            "source": "Twitter for iPhone",
+            "id": "1523364911937638400",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 24,
+                        "end": 35,
+                        "tag": "Calderilla"
+                    },
+                    {
+                        "start": 88,
+                        "end": 111,
+                        "tag": "Jerarqu\u00edaDeOperaciones"
+                    },
+                    {
+                        "start": 155,
+                        "end": 171,
+                        "tag": "claustrovirtual"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 172,
+                        "end": 195,
+                        "url": "https://t.co/t0jVnRi417",
+                        "expanded_url": "https://twitter.com/llume38/status/1523316113714868224/photo/1",
+                        "display_url": "pic.twitter.com/t0jVnRi417",
+                        "media_key": "3_1523316109772001280"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 39,
+                        "end": 55,
+                        "username": "Mercurio_Juegos",
+                        "id": "971734477192953856"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "- Primer d\u00eda utilizando #Calderilla de @Mercurio_Juegos en el aula de 3EP y ya conocen  #Jerarqu\u00edaDeOperaciones\n- Es un c\u00e1lculo sencillo \n- \u00a1\u00a1LA CONOCEN!!\n#claustrovirtual https://t.co/t0jVnRi417",
+            "conversation_id": "1523316113714868224",
+            "created_at": "2022-05-08T14:57:18.000Z",
+            "author_id": "277096229",
+            "attachments": {
+                "media_keys": [
+                    "3_1523316109772001280"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523316113714868224",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 118,
+                        "end": 134,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 135,
+                        "end": 148,
+                        "tag": "claustrodeig"
+                    },
+                    {
+                        "start": 149,
+                        "end": 172,
+                        "tag": "claustrodeigsecundaria"
+                    },
+                    {
+                        "start": 173,
+                        "end": 187,
+                        "tag": "weareteachers"
+                    },
+                    {
+                        "start": 188,
+                        "end": 200,
+                        "tag": "somosprofes"
+                    },
+                    {
+                        "start": 201,
+                        "end": 217,
+                        "tag": "ideasparaprofes"
+                    },
+                    {
+                        "start": 219,
+                        "end": 239,
+                        "tag": "teachersofinstagram"
+                    },
+                    {
+                        "start": 240,
+                        "end": 252,
+                        "tag": "teachertips"
+                    },
+                    {
+                        "start": 253,
+                        "end": 268,
+                        "tag": "edtechteachers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 94,
+                        "end": 117,
+                        "url": "https://t.co/SxJVwl2pdv",
+                        "expanded_url": "https://youtu.be/75Xinf5BJCs",
+                        "display_url": "youtu.be/75Xinf5BJCs",
+                        "status": 200,
+                        "title": "- YouTube",
+                        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                        "unwound_url": "https://www.youtube.com/watch?v=75Xinf5BJCs&feature=youtu.be"
+                    },
+                    {
+                        "start": 269,
+                        "end": 292,
+                        "url": "https://t.co/P7NGvYhBV4",
+                        "expanded_url": "https://twitter.com/SustainableTchr/status/1523271502237368322/photo/1",
+                        "display_url": "pic.twitter.com/P7NGvYhBV4",
+                        "media_key": "3_1519020760379150337"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "Teacher challenge: Resultado del reto abril + Reto mayo. \u00bfQuieres saber c\u00f3mo me ha ido? -&gt; https://t.co/SxJVwl2pdv #claustrovirtual #claustrodeig #claustrodeigsecundaria #weareteachers #somosprofes #ideasparaprofes  #teachersofinstagram #teachertips #edtechteachers https://t.co/P7NGvYhBV4",
+            "conversation_id": "1523271502237368322",
+            "created_at": "2022-05-08T12:00:01.000Z",
+            "author_id": "1261304832159297536",
+            "attachments": {
+                "media_keys": [
+                    "3_1519020760379150337"
+                ]
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157251587",
+                        "name": "Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597226729473",
+                        "name": "Non-profit"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043319936",
+                        "name": "WeAreTeachers"
+                    }
+                }
+            ],
+            "id": "1523271502237368322",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 1,
+                        "end": 17,
+                        "tag": "ClaustroVirtual"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 247,
+                        "end": 270,
+                        "url": "https://t.co/aCSnw10sPv",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270871435313154/photo/1",
+                        "display_url": "pic.twitter.com/aCSnw10sPv",
+                        "media_key": "3_1523270516920000513"
+                    },
+                    {
+                        "start": 247,
+                        "end": 270,
+                        "url": "https://t.co/aCSnw10sPv",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270871435313154/photo/1",
+                        "display_url": "pic.twitter.com/aCSnw10sPv",
+                        "media_key": "3_1523270366210269185"
+                    },
+                    {
+                        "start": 247,
+                        "end": 270,
+                        "url": "https://t.co/aCSnw10sPv",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270871435313154/photo/1",
+                        "display_url": "pic.twitter.com/aCSnw10sPv",
+                        "media_key": "3_1523270366361227266"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 116,
+                        "end": 126,
+                        "username": "justedues",
+                        "id": "1072450467375079424"
+                    },
+                    {
+                        "start": 128,
+                        "end": 140,
+                        "username": "edpuzzle_es",
+                        "id": "1347189623018160128"
+                    },
+                    {
+                        "start": 188,
+                        "end": 197,
+                        "username": "GEGSpain",
+                        "id": "845018656199323654"
+                    },
+                    {
+                        "start": 237,
+                        "end": 244,
+                        "username": "JIPAtq",
+                        "id": "1268836841035370496"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "387757085",
+            "lang": "es",
+            "text": "[#ClaustroVirtual] Algunas de las infograf\u00edas creadas en los \u00faltimos meses:\n\n\u27a4 2\u00aa Para Tour JustEdu &amp; EdPuzzle (@justedues, @edpuzzle_es).\n\u27a4 Organizado por educadores para educadores (@GEGSpain).\n\u27a4 Jornadas de Innovaci\u00f3n Pedag\u00f3gica (@JIPAtq). https://t.co/aCSnw10sPv",
+            "conversation_id": "1523270866959695873",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1523270866959695873"
+                }
+            ],
+            "created_at": "2022-05-08T11:57:31.000Z",
+            "author_id": "387757085",
+            "attachments": {
+                "media_keys": [
+                    "3_1523270516920000513",
+                    "3_1523270366210269185",
+                    "3_1523270366361227266"
+                ]
+            },
+            "source": "Twitter Web App",
+            "id": "1523270871435313154",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 1,
+                        "end": 17,
+                        "tag": "ClaustroVirtual"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/Ylql26MI79",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                        "display_url": "pic.twitter.com/Ylql26MI79",
+                        "media_key": "3_1523269598153478150"
+                    },
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/Ylql26MI79",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                        "display_url": "pic.twitter.com/Ylql26MI79",
+                        "media_key": "3_1523268941526753282"
+                    },
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/Ylql26MI79",
+                        "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                        "display_url": "pic.twitter.com/Ylql26MI79",
+                        "media_key": "3_1523269208959819777"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 81,
+                        "end": 122,
+                        "probability": 0.3161,
+                        "type": "Organization",
+                        "normalized_text": "Congreso Innovaci\u00f3n Educativa de Andaluc\u00eda"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 125,
+                        "end": 139,
+                        "username": "FormacProfAnd",
+                        "id": "295779009"
+                    },
+                    {
+                        "start": 187,
+                        "end": 196,
+                        "username": "EABE2020",
+                        "id": "1114562215682695170"
+                    },
+                    {
+                        "start": 262,
+                        "end": 275,
+                        "username": "InnoEducaUMA",
+                        "id": "1976224495"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "[#ClaustroVirtual] Algunas de las infograf\u00edas creadas en los \u00faltimos meses:\n\n\u27a4 I Congreso Innovaci\u00f3n Educativa de Andaluc\u00eda (@FormacProfAnd).\n\u27a4 XII Encuentro Andaluz de Blogs Educativos (@EABE2020).\n\u27a4 Jornadas Formativas: Tecnolog\u00edas para una Escuela Inclusiva (@InnoEducaUMA). https://t.co/Ylql26MI79",
+            "conversation_id": "1523270866959695873",
+            "created_at": "2022-05-08T11:57:30.000Z",
+            "author_id": "387757085",
+            "attachments": {
+                "media_keys": [
+                    "3_1523269598153478150",
+                    "3_1523268941526753282",
+                    "3_1523269208959819777"
+                ]
+            },
+            "source": "Twitter Web App",
+            "id": "1523270866959695873",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 20,
+                        "end": 36,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 142,
+                        "end": 146,
+                        "tag": "ABJ"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 191,
+                        "end": 214,
+                        "url": "https://t.co/CLFJmQPD2M",
+                        "expanded_url": "https://twitter.com/llume38/status/1523255104379314177/photo/1",
+                        "display_url": "pic.twitter.com/CLFJmQPD2M",
+                        "media_key": "3_1523255096301305862"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 2,
+                "like_count": 22,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "277096229",
+            "lang": "es",
+            "text": "\ud83d\udc4f\ud83d\udc4fA los docentes de #claustrovirtual que comparten, difunden, comentan, enriquecen, innovan, mejoran y creen en esta maravillosa aventura del #ABJ:\n\ud83e\udd2dGRA-CIAS!! (con luces de colores y dados) https://t.co/CLFJmQPD2M",
+            "conversation_id": "1523250321669206017",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1523253982164287488"
+                }
+            ],
+            "created_at": "2022-05-08T10:54:52.000Z",
+            "author_id": "277096229",
+            "attachments": {
+                "media_keys": [
+                    "3_1523255096301305862"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523255104379314177",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 46,
+                        "end": 50,
+                        "tag": "ABJ"
+                    },
+                    {
+                        "start": 59,
+                        "end": 75,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 237,
+                        "end": 241,
+                        "tag": "ABJ"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 269,
+                        "end": 292,
+                        "url": "https://t.co/rgAABumWvY",
+                        "expanded_url": "https://twitter.com/llume38/status/1523251097066151937/photo/1",
+                        "display_url": "pic.twitter.com/rgAABumWvY",
+                        "media_key": "3_1523251086877937665"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 89,
+                        "end": 100,
+                        "username": "pepepedraz",
+                        "id": "2786251607"
+                    },
+                    {
+                        "start": 133,
+                        "end": 148,
+                        "username": "OscarRecioColl",
+                        "id": "2813371358"
+                    },
+                    {
+                        "start": 170,
+                        "end": 185,
+                        "username": "laboratorijocs",
+                        "id": "840181324203872257"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 4,
+                "like_count": 11,
+                "quote_count": 1
+            },
+            "in_reply_to_user_id": "277096229",
+            "lang": "es",
+            "text": "Desde aqu\u00ed mi agradecimiento a los referentes #ABJ de este #claustrovirtual inagotable:\n\u2705@pepepedraz, porque \"contigo empez\u00f3 todo\" \n\u2705@OscarRecioColl, por ser mi \"muso\" \n\u2705@laboratorijocs, por contar con un equipazo de \"locos\" al servicio #ABJ\n\u00a1\u00a1Qu\u00e9 lujo viajar juntos!! https://t.co/rgAABumWvY",
+            "conversation_id": "1523250321669206017",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1523250321669206017"
+                }
+            ],
+            "created_at": "2022-05-08T10:38:56.000Z",
+            "author_id": "277096229",
+            "attachments": {
+                "media_keys": [
+                    "3_1523251086877937665"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523251097066151937",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 19,
+                        "tag": "EducacionEmocional"
+                    },
+                    {
+                        "start": 48,
+                        "end": 57,
+                        "tag": "alumnado"
+                    },
+                    {
+                        "start": 62,
+                        "end": 78,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 79,
+                        "end": 97,
+                        "tag": "educacioninfantil"
+                    },
+                    {
+                        "start": 98,
+                        "end": 115,
+                        "tag": "docentedecorazon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 116,
+                        "end": 139,
+                        "url": "https://t.co/0IY1AUhFce",
+                        "expanded_url": "https://twitter.com/asunflowers/status/1523229918565646338/video/1",
+                        "display_url": "pic.twitter.com/0IY1AUhFce",
+                        "media_key": "7_1523229847585280000"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "#EducacionEmocional Qu\u00e9 importante conocer a tu #alumnado !!!\n#claustrovirtual #educacioninfantil #docentedecorazon https://t.co/0IY1AUhFce",
+            "conversation_id": "1523229918565646338",
+            "created_at": "2022-05-08T09:14:47.000Z",
+            "author_id": "853750569151889408",
+            "attachments": {
+                "media_keys": [
+                    "7_1523229847585280000"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523229918565646338",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "9e6a1e068c830c22"
+            }
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 7,
+                        "end": 17,
+                        "tag": "PRIMAVERA"
+                    },
+                    {
+                        "start": 22,
+                        "end": 40,
+                        "tag": "educacioninfantil"
+                    },
+                    {
+                        "start": 44,
+                        "end": 50,
+                        "tag": "magia"
+                    },
+                    {
+                        "start": 170,
+                        "end": 186,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 187,
+                        "end": 203,
+                        "tag": "contextosreales"
+                    },
+                    {
+                        "start": 204,
+                        "end": 215,
+                        "tag": "motivacion"
+                    },
+                    {
+                        "start": 216,
+                        "end": 234,
+                        "tag": "decoracionpuertas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 235,
+                        "end": 258,
+                        "url": "https://t.co/9IuaTU8J8P",
+                        "expanded_url": "https://twitter.com/asunflowers/status/1523228990583889922/photo/1",
+                        "display_url": "pic.twitter.com/9IuaTU8J8P",
+                        "media_key": "3_1523228982585569280"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "Feliz \ud83d\udc90#PRIMAVERA\ud83d\udc90\nEn #educacioninfantil la #magia continua y esta vez con decoraci\u00f3n muy primaveral \u2764\ufe0f\ud83c\udf39\ud83c\udf89 y lo mejor es que han sido los chiquis quienes lo han decorado\ud83d\ude0d\n#claustrovirtual #contextosreales #motivacion #decoracionpuertas https://t.co/9IuaTU8J8P",
+            "conversation_id": "1523228990583889922",
+            "created_at": "2022-05-08T09:11:06.000Z",
+            "author_id": "853750569151889408",
+            "attachments": {
+                "media_keys": [
+                    "3_1523228982585569280"
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1523228990583889922",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 25,
+                        "end": 33,
+                        "tag": "JustEDU"
+                    },
+                    {
+                        "start": 34,
+                        "end": 37,
+                        "tag": "cy"
+                    },
+                    {
+                        "start": 116,
+                        "end": 132,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 133,
+                        "end": 149,
+                        "tag": "justedufestival"
+                    },
+                    {
+                        "start": 150,
+                        "end": 159,
+                        "tag": "justedu4"
+                    },
+                    {
+                        "start": 160,
+                        "end": 168,
+                        "tag": "justedu"
+                    },
+                    {
+                        "start": 169,
+                        "end": 179,
+                        "tag": "justedues"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "url": "https://t.co/or1dVb7pHm",
+                        "expanded_url": "https://lnkd.in/ejaFzJJH",
+                        "display_url": "lnkd.in/ejaFzJJH",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523215004643721217/ddgEeHon?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 675
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523215004643721217/ddgEeHon?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "justedu4",
+                        "description": "JustEDU es un espacio para profes como t\u00fa con ganas de cambiar el mundo. Un lugar donde encontrar\u00e1s cursos de formaci\u00f3n con los que aprender nuevas competencias y recursos educativos para descargar para ti como docente y tus estudiantes. \ud83d\udc4b\ud83c\udffc \u00danete a la comunidad JustEDU.",
+                        "unwound_url": "https://justedu.es/pages/justedu4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 210,
+                        "end": 222,
+                        "username": "xalocgregal",
+                        "id": "3024581"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "Pr\u00f3ximo 14 de mayo en el #JustEDU #cy aprende de todos los talleres y experiencias de compa\u00f1eros docentes que habr\u00e1 #claustrovirtual #justedufestival #justedu4 #justedu #justedues Goldenmac EDU. Grupo K-tuin.  @xalocgregal tienes que elegir talleres :-) https://t.co/or1dVb7pHm",
+            "conversation_id": "1523215001778999303",
+            "created_at": "2022-05-08T08:15:31.000Z",
+            "author_id": "17736274",
+            "source": "LinkedIn",
+            "id": "1523215001778999303",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 230,
+                        "end": 246,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 247,
+                        "end": 254,
+                        "tag": "edtech"
+                    },
+                    {
+                        "start": 255,
+                        "end": 268,
+                        "tag": "MicrosoftEDU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 205,
+                        "end": 228,
+                        "url": "https://t.co/dmokBwExej",
+                        "expanded_url": "https://youtube.com/shorts/h6NfMGjbgTY?feature=share",
+                        "display_url": "youtube.com/shorts/h6NfMGj\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523205237296988161/Y-gG4UMW?format=jpg&name=orig",
+                                "width": 480,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1523205237296988161/Y-gG4UMW?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "\ud83d\udce7 C\u00f3mo PROGRAMAR o RETRASAR el ENV\u00cdO de CORREOS en OUTLOOK y HOTMAIL \ud83d\udd51\ud83d\udce8",
+                        "description": "En este v\u00eddeo aprender\u00e1s a retrasar o programar los correos electr\u00f3nicos en Outlook.\ud83d\udd14 Subscr\u00edbete al canal de YouTube MS Teams Universe:https://www.youtube....",
+                        "unwound_url": "https://www.youtube.com/shorts/h6NfMGjbgTY?feature=share"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "En este micro-tip aprender\u00e1s a retrasar o programar el env\u00edo de correos electr\u00f3nicos en Outlook.\n\n\ud83d\udd51\ud83d\udce8\n\n\u00bfT\u00fa tambi\u00e9n escribes emails a horas intempestivas? Respeta el descanso de otros con este consejo \u2b07\ufe0f\n\n\ud83c\udfa5 https://t.co/dmokBwExej\n\n#claustrovirtual #edtech #MicrosoftEDU",
+            "conversation_id": "1523205235103395840",
+            "created_at": "2022-05-08T07:36:42.000Z",
+            "author_id": "462752734",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847546154439000064",
+                        "name": "Education",
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+                    }
+                }
+            ],
+            "id": "1523205235103395840",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 7,
+                        "end": 15,
+                        "tag": "edchats"
+                    },
+                    {
+                        "start": 20,
+                        "end": 31,
+                        "tag": "edutwitter"
+                    },
+                    {
+                        "start": 32,
+                        "end": 46,
+                        "tag": "mfltwitterati"
+                    },
+                    {
+                        "start": 47,
+                        "end": 66,
+                        "tag": "teacher5oclockclub"
+                    },
+                    {
+                        "start": 67,
+                        "end": 83,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 86,
+                        "end": 108,
+                        "tag": "GlobalStaffroomSunday"
+                    },
+                    {
+                        "start": 121,
+                        "end": 137,
+                        "tag": "YourMindMatters"
+                    },
+                    {
+                        "start": 150,
+                        "end": 165,
+                        "tag": "ReflectConnect"
+                    },
+                    {
+                        "start": 181,
+                        "end": 189,
+                        "tag": "SunChat"
+                    },
+                    {
+                        "start": 203,
+                        "end": 214,
+                        "tag": "QoftheWeek"
+                    },
+                    {
+                        "start": 230,
+                        "end": 243,
+                        "tag": "BuildHOPEedu"
+                    },
+                    {
+                        "start": 254,
+                        "end": 263,
+                        "tag": "TeachPos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/R18dQeefty",
+                        "expanded_url": "https://twitter.com/ladeidiomas/status/1523203898764574720/photo/1",
+                        "display_url": "pic.twitter.com/R18dQeefty",
+                        "media_key": "3_1523203893718667264"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 109,
+                        "end": 119,
+                        "username": "EvoHannan",
+                        "id": "1899354152"
+                    },
+                    {
+                        "start": 138,
+                        "end": 148,
+                        "username": "rf_watson",
+                        "id": "790597213185531904"
+                    },
+                    {
+                        "start": 166,
+                        "end": 179,
+                        "username": "AnniePendrey",
+                        "id": "1106461425277517825"
+                    },
+                    {
+                        "start": 190,
+                        "end": 201,
+                        "username": "susankotch",
+                        "id": "1119525204"
+                    },
+                    {
+                        "start": 215,
+                        "end": 228,
+                        "username": "ChrisQuinn64",
+                        "id": "14248423"
+                    },
+                    {
+                        "start": 244,
+                        "end": 252,
+                        "username": "NowakRo",
+                        "id": "281566428"
+                    },
+                    {
+                        "start": 264,
+                        "end": 277,
+                        "username": "Shapiro_WTHS",
+                        "id": "2411513971"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "text": "Sunday #edchats for #edutwitter #mfltwitterati #teacher5oclockclub #claustrovirtual \n\n#GlobalStaffroomSunday @EvoHannan \n#YourMindMatters @rf_watson \n#ReflectConnect @AnniePendrey \n#SunChat @susankotch \n#QoftheWeek @ChrisQuinn64 \n#BuildHOPEedu @NowakRo \n#TeachPos @Shapiro_WTHS https://t.co/R18dQeefty",
+            "conversation_id": "1523203898764574720",
+            "created_at": "2022-05-08T07:31:23.000Z",
+            "author_id": "250296635",
+            "attachments": {
+                "media_keys": [
+                    "3_1523203893718667264"
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "1523203898764574720",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "tag": "MicrosoftTeams"
+                    },
+                    {
+                        "start": 145,
+                        "end": 161,
+                        "tag": "claustrovirtual"
+                    },
+                    {
+                        "start": 162,
+                        "end": 169,
+                        "tag": "edtech"
+                    },
+                    {
+                        "start": 170,
+                        "end": 183,
+                        "tag": "MicrosoftEDU"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "es",
+            "text": "\u00bfSab\u00edas que en #MicrosoftTeams puedes activar la \"galer\u00eda de gran tama\u00f1o\" para visualizar hasta 49 personas en tus videollamadas?\n\n\ud83d\udcfd\ufe0f\ud83d\udda5\ufe0f  \ud83d\udde3\ufe0f\ud83d\udc65\ud83d\udc65\ud83d\udc65\ud83d\udc65\n\n#claustrovirtual #edtech #MicrosoftEDU",
+            "conversation_id": "1523203499395190784",
+            "created_at": "2022-05-08T07:29:48.000Z",
+            "author_id": "846749548588486658",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847546154439000064",
+                        "name": "Education",
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+                    }
+                }
+            ],
+            "id": "1523203499395190784",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "duration_ms": 29929,
+                "height": 480,
+                "width": 540,
+                "public_metrics": {
+                    "view_count": 13
+                },
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1523377113763565568/pu/img/ApbLnThJzW0D68Bf.jpg",
+                "media_key": "7_1523377113763565568",
+                "type": "video"
+            },
+            {
+                "height": 1045,
+                "url": "https://pbs.twimg.com/media/FSQWNxMXEAAJ8HF.jpg",
+                "width": 889,
+                "media_key": "3_1523366999757361152",
+                "type": "photo"
+            },
+            {
+                "height": 2048,
+                "url": "https://pbs.twimg.com/media/FSPn7lOXEAAOGne.jpg",
+                "width": 2048,
+                "media_key": "3_1523316109772001280",
+                "type": "photo"
+            },
+            {
+                "height": 720,
+                "url": "https://pbs.twimg.com/media/FRSlVVzX0AERviJ.jpg",
+                "width": 1280,
+                "media_key": "3_1519020760379150337",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO-dunXoAEo0iV.jpg",
+                "width": 1200,
+                "media_key": "3_1523270516920000513",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO-U9LXoAEr57o.jpg",
+                "width": 1200,
+                "media_key": "3_1523270366210269185",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO-U9vXEAIKfxU.jpg",
+                "width": 1200,
+                "media_key": "3_1523270366361227266",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO9oP8XEAYXJSt.jpg",
+                "width": 1200,
+                "media_key": "3_1523269598153478150",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO9CB0WYAINoxR.jpg",
+                "width": 1200,
+                "media_key": "3_1523268941526753282",
+                "type": "photo"
+            },
+            {
+                "height": 628,
+                "url": "https://pbs.twimg.com/media/FSO9RmFXIAEZziX.jpg",
+                "width": 1200,
+                "media_key": "3_1523269208959819777",
+                "type": "photo"
+            },
+            {
+                "height": 1536,
+                "url": "https://pbs.twimg.com/media/FSOwcIVXwAYnIAk.jpg",
+                "width": 2048,
+                "media_key": "3_1523255096301305862",
+                "type": "photo"
+            },
+            {
+                "height": 1536,
+                "url": "https://pbs.twimg.com/media/FSOsywEWUAEMXJP.jpg",
+                "width": 2048,
+                "media_key": "3_1523251086877937665",
+                "type": "photo"
+            },
+            {
+                "duration_ms": 24433,
+                "height": 1024,
+                "width": 576,
+                "public_metrics": {
+                    "view_count": 11
+                },
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1523229847585280000/pu/img/Z6AhDT1wKrLbQj4y.jpg",
+                "media_key": "7_1523229847585280000",
+                "type": "video"
+            },
+            {
+                "height": 2048,
+                "url": "https://pbs.twimg.com/media/FSOYsHKXsAApWV2.jpg",
+                "width": 1536,
+                "media_key": "3_1523228982585569280",
+                "type": "photo"
+            },
+            {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/media/FSOB3v2X0AAVoyf.jpg",
+                "width": 1920,
+                "media_key": "3_1523203893718667264",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "id": "853750569151889408",
+                "name": "Asun Flores",
+                "username": "asunflowers"
+            },
+            {
+                "id": "162006900",
+                "name": "Manuel Jes\u00fas Fern\u00e1ndez",
+                "username": "manueljesusF"
+            },
+            {
+                "id": "1486761183009030144",
+                "name": "ENCUENTRO PROFESORES CCSS M\u00c1LAGA 2022",
+                "username": "edccss22_Malaga"
+            },
+            {
+                "id": "1114562215682695170",
+                "name": "EABE2022",
+                "username": "EABE2020"
+            },
+            {
+                "id": "1518026344629776384",
+                "name": "EABE23",
+                "username": "EABE2023"
+            },
+            {
+                "id": "189062495",
+                "name": "Cedec",
+                "username": "CeDeC_intef"
+            },
+            {
+                "id": "1123874401609555973",
+                "name": "AVPGHA",
+                "username": "AVPGHA"
+            },
+            {
+                "id": "882195634090110976",
+                "name": "AMPHG",
+                "username": "amphg_es"
+            },
+            {
+                "id": "137130762",
+                "name": "educahistoria",
+                "username": "educahistoria"
+            },
+            {
+                "id": "59874027",
+                "name": "Estar orienta2",
+                "username": "estarorienta2"
+            },
+            {
+                "id": "714139559475474432",
+                "name": "Educaci\u00f3n de Personas Adultas",
+                "username": "fadultos"
+            },
+            {
+                "id": "277096229",
+                "name": "Luis de Mena",
+                "username": "llume38"
+            },
+            {
+                "id": "971734477192953856",
+                "name": "Mercurio Distribuciones",
+                "username": "Mercurio_Juegos"
+            },
+            {
+                "id": "1261304832159297536",
+                "name": "Sustainable Teacher",
+                "username": "SustainableTchr"
+            },
+            {
+                "id": "387757085",
+                "name": "Sergio Ruiz Viruel",
+                "username": "srviruel"
+            },
+            {
+                "id": "1072450467375079424",
+                "name": "JustEDU",
+                "username": "justedues"
+            },
+            {
+                "id": "1347189623018160128",
+                "name": "Edpuzzle (espa\u00f1ol)",
+                "username": "edpuzzle_es"
+            },
+            {
+                "id": "845018656199323654",
+                "name": "GEG Spain",
+                "username": "GEGSpain"
+            },
+            {
+                "id": "1268836841035370496",
+                "name": "JIPAtq Jornadas de Innovaci\u00f3n Pedag\u00f3gica Antequera",
+                "username": "JIPAtq"
+            },
+            {
+                "id": "295779009",
+                "name": "Servicio de Planes de Formaci\u00f3n",
+                "username": "FormacProfAnd"
+            },
+            {
+                "id": "1976224495",
+                "name": "InnoEduca",
+                "username": "InnoEducaUMA"
+            },
+            {
+                "id": "2786251607",
+                "name": "Pepe Pedraz \ud83d\udca1",
+                "username": "pepepedraz"
+            },
+            {
+                "id": "2813371358",
+                "name": "Mr Wolf Teacher",
+                "username": "OscarRecioColl"
+            },
+            {
+                "id": "840181324203872257",
+                "name": "Laboratori de Jocs",
+                "username": "laboratorijocs"
+            },
+            {
+                "id": "17736274",
+                "name": "Ang\u00e9lica Su\u00e1rez",
+                "username": "angesusu"
+            },
+            {
+                "id": "3024581",
+                "name": "Jorge Moreno",
+                "username": "xalocgregal"
+            },
+            {
+                "id": "462752734",
+                "name": "Vicent Gadea",
+                "username": "vicentgadea"
+            },
+            {
+                "id": "250296635",
+                "name": "Jimena \ud83c\uddea\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\udde9\ud83c\uddea\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83c\udde7\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa #TVTTagTeam \ud83e\udda9",
+                "username": "ladeidiomas"
+            },
+            {
+                "id": "1899354152",
+                "name": "Evo Hannan",
+                "username": "EvoHannan"
+            },
+            {
+                "id": "790597213185531904",
+                "name": "\uf8ff Rob Watson \ud83e\udde0 \ud83e\udd99",
+                "username": "rf_watson"
+            },
+            {
+                "id": "1106461425277517825",
+                "name": "Annie Pendrey",
+                "username": "AnniePendrey"
+            },
+            {
+                "id": "1119525204",
+                "name": "Susan Kotch",
+                "username": "susankotch"
+            },
+            {
+                "id": "14248423",
+                "name": "Chris Quinn \ud83d\udcab",
+                "username": "ChrisQuinn64"
+            },
+            {
+                "id": "281566428",
+                "name": "Roman Nowak",
+                "username": "NowakRo"
+            },
+            {
+                "id": "2411513971",
+                "name": "Craig Shapiro",
+                "username": "Shapiro_WTHS"
+            },
+            {
+                "id": "846749548588486658",
+                "name": "Teams Universe",
+                "username": "TeamsUniverse"
+            }
+        ],
+        "places": [
+            {
+                "geo": {
+                    "type": "Feature",
+                    "bbox": [
+                        -2.3551373,
+                        39.8264038,
+                        -1.6973477,
+                        40.5215631
+                    ],
+                    "properties": {}
+                },
+                "place_type": "city",
+                "full_name": "Cuenca, Spain",
+                "country": "Spain",
+                "id": "9e6a1e068c830c22",
+                "name": "Cuenca",
+                "country_code": "ES"
+            }
+        ],
+        "tweets": [
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 1,
+                            "end": 17,
+                            "tag": "ClaustroVirtual"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 278,
+                            "end": 301,
+                            "url": "https://t.co/Ylql26MI79",
+                            "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                            "display_url": "pic.twitter.com/Ylql26MI79",
+                            "media_key": "3_1523269598153478150"
+                        },
+                        {
+                            "start": 278,
+                            "end": 301,
+                            "url": "https://t.co/Ylql26MI79",
+                            "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                            "display_url": "pic.twitter.com/Ylql26MI79",
+                            "media_key": "3_1523268941526753282"
+                        },
+                        {
+                            "start": 278,
+                            "end": 301,
+                            "url": "https://t.co/Ylql26MI79",
+                            "expanded_url": "https://twitter.com/srviruel/status/1523270866959695873/photo/1",
+                            "display_url": "pic.twitter.com/Ylql26MI79",
+                            "media_key": "3_1523269208959819777"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 81,
+                            "end": 122,
+                            "probability": 0.3161,
+                            "type": "Organization",
+                            "normalized_text": "Congreso Innovaci\u00f3n Educativa de Andaluc\u00eda"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 125,
+                            "end": 139,
+                            "username": "FormacProfAnd",
+                            "id": "295779009"
+                        },
+                        {
+                            "start": 187,
+                            "end": 196,
+                            "username": "EABE2020",
+                            "id": "1114562215682695170"
+                        },
+                        {
+                            "start": 262,
+                            "end": 275,
+                            "username": "InnoEducaUMA",
+                            "id": "1976224495"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 4,
+                    "quote_count": 0
+                },
+                "lang": "es",
+                "text": "[#ClaustroVirtual] Algunas de las infograf\u00edas creadas en los \u00faltimos meses:\n\n\u27a4 I Congreso Innovaci\u00f3n Educativa de Andaluc\u00eda (@FormacProfAnd).\n\u27a4 XII Encuentro Andaluz de Blogs Educativos (@EABE2020).\n\u27a4 Jornadas Formativas: Tecnolog\u00edas para una Escuela Inclusiva (@InnoEducaUMA). https://t.co/Ylql26MI79",
+                "conversation_id": "1523270866959695873",
+                "created_at": "2022-05-08T11:57:30.000Z",
+                "author_id": "387757085",
+                "attachments": {
+                    "media_keys": [
+                        "3_1523269598153478150",
+                        "3_1523268941526753282",
+                        "3_1523269208959819777"
+                    ]
+                },
+                "source": "Twitter Web App",
+                "id": "1523270866959695873",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone"
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 73,
+                            "end": 77,
+                            "tag": "ABJ"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 206,
+                            "end": 229,
+                            "url": "https://t.co/GLcjCuHPVe",
+                            "expanded_url": "https://twitter.com/llume38/status/1523253982164287488/photo/1",
+                            "display_url": "pic.twitter.com/GLcjCuHPVe",
+                            "media_key": "3_1523253975981637632"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 1,
+                    "reply_count": 1,
+                    "like_count": 17,
+                    "quote_count": 0
+                },
+                "in_reply_to_user_id": "277096229",
+                "lang": "es",
+                "text": "Un sonoro \ud83d\udc4f\ud83d\udc4f para las editoriales que se empe\u00f1an en seguir desarrollando #ABJ y nos facilitan la creaci\u00f3n de escenarios de aprendizaje maravillosos en nuestras aulas.\n\ud83d\ude09Con vosotras cerca, todo es m\u00e1s f\u00e1cil https://t.co/GLcjCuHPVe",
+                "conversation_id": "1523250321669206017",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1523251857745149955"
+                    }
+                ],
+                "created_at": "2022-05-08T10:50:24.000Z",
+                "author_id": "277096229",
+                "attachments": {
+                    "media_keys": [
+                        "3_1523253975981637632"
+                    ]
+                },
+                "source": "Twitter for Android",
+                "id": "1523253982164287488",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone"
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 56,
+                            "end": 60,
+                            "tag": "ABJ"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 251,
+                            "end": 274,
+                            "url": "https://t.co/ZVlqbQs98B",
+                            "expanded_url": "https://twitter.com/llume38/status/1523250321669206017/photo/1",
+                            "display_url": "pic.twitter.com/ZVlqbQs98B",
+                            "media_key": "3_1523250312198463488"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 44,
+                            "end": 53,
+                            "username": "educacyl",
+                            "id": "81860183"
+                        },
+                        {
+                            "start": 101,
+                            "end": 117,
+                            "username": "STrinidadZamora",
+                            "id": "1236102698"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 5,
+                    "reply_count": 2,
+                    "like_count": 17,
+                    "quote_count": 0
+                },
+                "lang": "es",
+                "text": "\ud83c\udfb2Cerrando Memoria de Experiencia de Calidad @educacyl : #ABJ, echo la vista atr\u00e1s.\nGracias, Claustro @STrinidadZamora \n\u2705Profes inquietos, emprendedores\n\u2705Inspiradores, artistas \n\u2705Comunicadores y proactivos.\n\ud83d\ude80El todo, es mayor que la suma de sus partes https://t.co/ZVlqbQs98B",
+                "conversation_id": "1523250321669206017",
+                "created_at": "2022-05-08T10:35:51.000Z",
+                "author_id": "277096229",
+                "attachments": {
+                    "media_keys": [
+                        "3_1523250312198463488"
+                    ]
+                },
+                "source": "Twitter for Android",
+                "id": "1523250321669206017",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1523377243292008448",
+        "oldest_id": "1523203499395190784",
+        "result_count": 15
+    }
+}
